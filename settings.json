@@ -1,0 +1,9 @@
+{
+    "editor.formatOnSave": true,
+    "C_Cpp.clang_format_fallbackStyle": "Microsoft",
+    "C_Cpp.clang_format_style": "file",
+    "C_Cpp.formatting": "clangFormat",
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true,
+    "files.autoSave": "off"
+  }
