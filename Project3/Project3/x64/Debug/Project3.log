@@ -1,0 +1,3 @@
+﻿  Chapter2.cpp
+C:\Users\23128\Desktop\Project3\Project3\Chapter2.cpp(9,6): warning C4326: “main”的返回类型应为“int”而非“void”
+  Project3.vcxproj -> C:\Users\23128\Desktop\Project3\x64\Debug\Project3.exe
